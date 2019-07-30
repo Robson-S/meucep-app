@@ -7,4 +7,4 @@ class Endereco {
     estado:String;
 }
 
-export default Endereco
+export default Endereco;
